@@ -25,7 +25,7 @@ It also appears that the mean of the congruent set is much lower, which is refle
 Given that there each test has 24 samples we have 23 degrees of freedom. With an alpha of 0.05 the t-critical is +/- 2.069. Given that the t-value is -8.02, we reject the null, suggesting that performance on the incongruent test is significantly less than that of the congruent version. I also calculated Cohen's d which had a value of -1.637 further confirming the effect of the congruency of the words and colors. 
 
 (Statistics available in [iPython notebook cell 3](P1_stroop_experiment.ipynb))
-(Hand calculations available in [attached Excel file](stroopdata_edited.xlsx))
+(Hand calculations available in [attached Excel file](stroopdata_calculations.xlsx))
 
 #### 6. Optional: What do you think is responsible for the effects observed? Can you think of an alternative or similar task that would result in a similar effect? Some research about the problem will be helpful for thinking about these two questions!
 Our visual association with colors is very strong and difficult to ignore. One of my favorite alternatives is a task where you have to press a series of bubbles in order based on the numeric value inside the bubble. It is related to the Stroop effect in that the size of the bubbles is incongruent with the value of the bubble, making it difficult to press them in the right order. I haven't seen this used in an experiment, but it would be interesting to see the results of such a test. 
